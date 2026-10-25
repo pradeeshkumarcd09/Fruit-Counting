@@ -1,0 +1,11 @@
+{
+  "test_images": 24,
+  "confidence_threshold": 0.25,
+  "overall_count_mae_per_image": 0.09722222222222221,
+  "exact_all_class_count_accuracy_percent": 79.16666666666666,
+  "per_class_mae": {
+    "apple": 0.16666666666666666,
+    "carrot": 0.08333333333333333,
+    "orange": 0.041666666666666664
+  }
+}
